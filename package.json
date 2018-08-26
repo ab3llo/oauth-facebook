@@ -1,0 +1,19 @@
+{
+  "name": "oauth-facebook",
+  "version": "1.0.0",
+  "description": "facebook oauth example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ab3llo/oauth-facebook.git"
+  },
+  "author": "Antonio Bello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ab3llo/oauth-facebook/issues"
+  },
+  "homepage": "https://github.com/ab3llo/oauth-facebook#readme"
+}
